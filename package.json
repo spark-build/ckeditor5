@@ -1,6 +1,6 @@
 {
   "name": "@spark-build/ckeditor-5",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ckeditor5 wrapper",
   "author": "atzcl0310@gmail.com",
   "license": "MIT",
